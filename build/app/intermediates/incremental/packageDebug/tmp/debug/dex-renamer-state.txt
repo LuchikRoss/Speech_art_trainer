@@ -1,0 +1,10 @@
+#Wed Nov 25 18:07:25 EET 2020
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Flutter\\upwork\\git\\gitter34_speach\\Speech_art_trainer\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex
+base.1=C\:\\Flutter\\upwork\\git\\gitter34_speach\\Speech_art_trainer\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=C\:\\Flutter\\upwork\\git\\gitter34_speach\\Speech_art_trainer\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
