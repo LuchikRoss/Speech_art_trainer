@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="953b58b7-76dd-4494-9b94-4d6f4a7e529a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606325247381</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1606325606712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606325606712</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -80,10 +86,10 @@
       <screen x="1920" y="0" width="2752" height="1112" />
     </state>
     <state x="2789" y="131" key="#Notifications/0.0.1920.1040/1920.0.2752.1112@1920.0.2752.1112" timestamp="1606321041049" />
-    <state x="2709" y="82" key="CommitChangelistDialog2" timestamp="1606325239000">
+    <state x="2709" y="82" key="CommitChangelistDialog2" timestamp="1606325605476">
       <screen x="1920" y="0" width="2752" height="1112" />
     </state>
-    <state x="2709" y="82" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.2752.1112@1920.0.2752.1112" timestamp="1606325239000" />
+    <state x="2709" y="82" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.2752.1112@1920.0.2752.1112" timestamp="1606325605476" />
     <state x="2888" y="308" key="FileChooserDialogImpl" timestamp="1606323106667">
       <screen x="1920" y="0" width="2752" height="1112" />
     </state>
@@ -108,10 +114,10 @@
       <screen x="1920" y="0" width="2752" height="1112" />
     </state>
     <state x="2674" y="112" key="SettingsEditor/0.0.1920.1040/1920.0.2752.1112@1920.0.2752.1112" timestamp="1606320336245" />
-    <state x="2789" y="223" key="Vcs.Push.Dialog.v2" timestamp="1606324878173">
+    <state x="2789" y="223" key="Vcs.Push.Dialog.v2" timestamp="1606325673738">
       <screen x="1920" y="0" width="2752" height="1112" />
     </state>
-    <state x="2789" y="223" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2752.1112@1920.0.2752.1112" timestamp="1606324878173" />
+    <state x="2789" y="223" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2752.1112@1920.0.2752.1112" timestamp="1606325673738" />
     <state x="3051" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606325348036">
       <screen x="1920" y="0" width="2752" height="1112" />
     </state>
